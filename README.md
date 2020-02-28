@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The DOM allows you to use Javascript to manipulate HTML and CSS in ways that you would not be able to do so without it. 
+
 2. What is an event?
+
+An event is an instance where something changes on a webpage or app.
 
 3. What is an event listener?
 
+An event listener is a type of code that waits until certain requirements have been fulfilled and causes an event.
+
 4. Why would we convert a NodeList into an Array?
 
+it allows you to manipulate the code easier using array methods.
+
 5. What is a component?
+
+It is a group of code that usually follows a certain pattern and is used in code where you want to change often and not be hard coded. 
 
 ### Git Set up
 
